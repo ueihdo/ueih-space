@@ -1,0 +1,7 @@
+.nav{
+    background-color: gray;
+}
+.nav li a {
+    color: white;
+    font-variant: small-caps;
+}
